@@ -1,7 +1,7 @@
 apiVersion: "v1"
 kind: "Service"
 metadata:
-  name: "pilgrimage_project"
+  name: "pilgrimage-project"
   namespace: "pilgrimage"
   labels:
     app: "frontend"
