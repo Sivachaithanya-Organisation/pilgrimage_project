@@ -8,7 +8,7 @@ on:
 env:
   ECS_TASK_DEFINITION: tanusha-task-definition.json
   CONTAINER_NAME: tanusha-container
-  ECS_SERVICE: tanusha-ecs-service
+  ECS_SERVICE: tanusha-task-definition-service-6p5ndxw6
   ECS_CLUSTER: tanusha-ecs-cluster
   IMAGE_TAG: ${{ github.sha }}
 
