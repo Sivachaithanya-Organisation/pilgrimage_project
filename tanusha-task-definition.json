@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "tanusha-container",
-            "image": "794934876309.dkr.ecr.us-west-2.amazonaws.com/tanusha-k8s-project@sha256:${{ github.sha }}",
+            "image": "794934876309.dkr.ecr.us-west-2.amazonaws.com/tanusha-k8s-project:${{ github.sha }}",
             "cpu": 0,
             "portMappings": [
                 {
