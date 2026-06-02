@@ -14,3 +14,6 @@ A Python Flask web application showcasing a directory of Lord Vishnu temples in 
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run the app: `python app.py`
 6. Open `http://127.0.0.1:5000` in your browser.
+
+#ECS Github actions workflow plugin
+https://github.com/marketplace/actions/amazon-ecs-deploy-task-definition-action-for-github-actions-temp
