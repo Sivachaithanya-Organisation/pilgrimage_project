@@ -89,6 +89,5 @@
     "memory": "2048",
     "registeredAt": "2026-06-02T03:47:24.819Z",
     "registeredBy": "arn:aws:iam::794934876309:user/siva-user",
-    "enableFaultInjection": false,
     "tags": []
 }
